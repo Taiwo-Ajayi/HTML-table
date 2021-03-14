@@ -1,0 +1,63 @@
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #C0C0C0;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Enterprise</th>
+    <th>Website</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Taiwo Organisation</td>
+    <td>taiwo.com</td>
+    <td>Nigeria</td>
+  </tr>
+  <tr>
+    <td>Arex Ltd</td>
+    <td>arexlimited.org</td>
+    <td>Ghana</td>
+  </tr>
+  <tr>
+    <td>Isopex Central</td>
+    <td>isopexcentral.com</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Wesley Trading</td>
+    <td>westrade.org</td>
+    <td>Togo</td>
+  </tr>
+  <tr>
+    <td>Mide Covers</td>
+    <td>midecovers.com</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Royal Suites & Equity</td>
+    <td>royalsuitequity.org</td>
+    <td>Italy</td>
+  </tr>
+</table>
+</body>
+</html>
